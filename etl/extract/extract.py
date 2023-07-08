@@ -48,4 +48,5 @@ df = pd.DataFrame(df)
 # Save the DataFrame as a new CSV file in the output folder
 df.to_csv(output_folder + output_file + '.csv', mode='a', header=True, index=False)
 
+
 print("File saved successfully!")

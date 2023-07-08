@@ -1,7 +1,15 @@
 import pandas as pd
+import json
+
+# open credencials and configs
+with open('config/config.json') as f:
+    config = json.load(f)
+
+# Access the configuration values
+folders = config['folders']
 
 # origen local raw file 
-folder_origem = 'C:/Users/demaxsuel.batista/Documents/Python Scripts/03 - analises e port/04 - Covid2019/data/raw/'
+folder_origem = folders['f_extract']
 file_name = 'DADOS_COVID' 
 
 # Connect with csv file
@@ -31,7 +39,7 @@ df = df[[
 df = df.sort_values('date', ascending=True)
 
 # Specify the new folder path
-output_folder = 'C:/Users/demaxsuel.batista/Documents/Python Scripts/03 - analises e port/04 - Covid2019/data/processed/'
+output_folder = folders['d_transform']
 output_file = file_name + '_extracted'
 
 # transform in a DataFrame

@@ -19,7 +19,7 @@ df = pd.DataFrame(df)
 
 # Specify the new folder path
 output_folder = folders['d_transform']
-output_file = file_name + '_transformed'
+output_file = 'f_covid'
 
 # Save the DataFrame as a new CSV file in the output folder
 df.to_csv(output_folder + output_file + '.csv', mode='a', header=True, index=False)

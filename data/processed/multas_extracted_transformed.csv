@@ -1,0 +1,971 @@
+date,escopo_autuacao,uf,quantidade_autos
+01-JAN-2021,CMT - Capacidade Máxima de Tração,MG,2
+01-JAN-2021,CMT - Capacidade Máxima de Tração,RJ,3
+01-JAN-2021,CMT - Capacidade Máxima de Tração,MS,1
+01-JAN-2021,CMT - Capacidade Máxima de Tração,RJ,5
+01-JAN-2021,Evasão de Balança,RJ,6330
+01-JAN-2021,Excesso de Peso,MG,809
+01-JAN-2021,Excesso de Peso,MS,7
+01-JAN-2021,Excesso de Peso,MS,41
+01-JAN-2021,Excesso de Peso,PR,364
+01-JAN-2021,Excesso de Peso,RJ,435
+01-JAN-2021,Excesso de Peso,RJ,2991
+01-JAN-2021,Excesso de Peso,RS,10
+01-FEV-2021,CMT - Capacidade Máxima de Tração,PR,1
+01-FEV-2021,CMT - Capacidade Máxima de Tração,RJ,4
+01-FEV-2021,Excesso de Peso,ES,89
+01-FEV-2021,Excesso de Peso,ES,106
+01-FEV-2021,Excesso de Peso,PR,51
+01-FEV-2021,Excesso de Peso,RJ,400
+01-FEV-2021,Excesso de Peso,RS,17
+01-MAR-2021,CMT - Capacidade Máxima de Tração,RJ,3
+01-MAR-2021,Evasão de Balança,ES,631
+01-MAR-2021,Excesso de Peso,MG,495
+01-MAR-2021,Excesso de Peso,RJ,406
+01-MAR-2021,Excesso de Peso,RJ,453
+01-MAR-2021,Excesso de Peso,RS,418
+01-MAR-2021,Excesso de Peso,SC,839
+01-ABR-2021,CMT - Capacidade Máxima de Tração,MS,1
+01-ABR-2021,Evasão de Balança,ES,385
+01-ABR-2021,Evasão de Balança,RJ,4152
+01-ABR-2021,Evasão de Balança,SP,531
+01-ABR-2021,Excesso de Peso,ES,100
+01-ABR-2021,Excesso de Peso,ES,930
+01-ABR-2021,Excesso de Peso,GO,248
+01-ABR-2021,Excesso de Peso,MS,6
+01-ABR-2021,Excesso de Peso,MS,103
+01-ABR-2021,Excesso de Peso,PR,750
+01-ABR-2021,Excesso de Peso,RJ,353
+01-ABR-2021,Excesso de Peso,RJ,469
+01-ABR-2021,Excesso de Peso,SC,119
+01-ABR-2021,Excesso de Peso,SP,65
+01-MAI-2021,CMT - Capacidade Máxima de Tração,MG,5
+01-MAI-2021,CMT - Capacidade Máxima de Tração,PR,1
+01-MAI-2021,CMT - Capacidade Máxima de Tração,SC,1
+01-MAI-2021,Excesso de Peso,BA,6
+01-MAI-2021,Excesso de Peso,ES,157
+01-MAI-2021,Excesso de Peso,ES,1170
+01-MAI-2021,Excesso de Peso,GO,19
+01-MAI-2021,Excesso de Peso,MG,1
+01-MAI-2021,Excesso de Peso,MS,91
+01-MAI-2021,Excesso de Peso,RJ,365
+01-MAI-2021,Excesso de Peso,RJ,445
+01-MAI-2021,Excesso de Peso,RJ,3110
+01-MAI-2021,Excesso de Peso,RS,47
+01-MAI-2021,Excesso de Peso,RS,72
+01-MAI-2021,Excesso de Peso,RS,568
+01-MAI-2021,Excesso de Peso,SC,119
+01-MAI-2021,Excesso de Peso,SP,45
+01-JUN-2021,CMT - Capacidade Máxima de Tração,ES,2
+01-JUN-2021,Excesso de Peso,BA,1
+01-JUN-2021,Excesso de Peso,ES,84
+01-JUN-2021,Excesso de Peso,GO,5
+01-JUN-2021,Excesso de Peso,GO,92
+01-JUN-2021,Excesso de Peso,RJ,353
+01-JUN-2021,Excesso de Peso,SC,165
+01-JUN-2021,Excesso de Peso,SP,115
+01-JUL-2021,CMT - Capacidade Máxima de Tração,PR,1
+01-JAN-2021,Evasão de Balança,SP,422
+01-JAN-2021,Excesso de Peso,ES,69
+01-JAN-2021,Excesso de Peso,MG,57
+01-JAN-2021,Excesso de Peso,PR,58
+01-JAN-2021,Excesso de Peso,RS,17
+01-JAN-2021,Excesso de Peso,RS,154
+01-JAN-2021,Excesso de Peso,SC,113
+01-JAN-2021,Excesso de Peso,SP,66
+01-FEV-2021,CMT - Capacidade Máxima de Tração,SP,2
+01-FEV-2021,Evasão de Balança,SP,395
+01-FEV-2021,Excesso de Peso,MG,347
+01-FEV-2021,Excesso de Peso,RS,339
+01-FEV-2021,Excesso de Peso,SC,61
+01-FEV-2021,Excesso de Peso,SC,154
+01-FEV-2021,Excesso de Peso,SP,55
+01-MAR-2021,CMT - Capacidade Máxima de Tração,RJ,1
+01-MAR-2021,CMT - Capacidade Máxima de Tração,RJ,2
+01-MAR-2021,CMT - Capacidade Máxima de Tração,SC,1
+01-MAR-2021,Excesso de Peso,ES,103
+01-MAR-2021,Excesso de Peso,PR,31
+01-MAR-2021,Excesso de Peso,RS,12
+01-MAR-2021,Excesso de Peso,SC,207
+01-MAR-2021,Excesso de Peso,SP,74
+01-ABR-2021,CMT - Capacidade Máxima de Tração,RJ,1
+01-ABR-2021,CMT - Capacidade Máxima de Tração,RJ,1
+01-ABR-2021,CMT - Capacidade Máxima de Tração,RS,1
+01-ABR-2021,Excesso de Peso,GO,7
+01-ABR-2021,Excesso de Peso,MG,164
+01-ABR-2021,Excesso de Peso,MG,948
+01-ABR-2021,Excesso de Peso,PR,73
+01-ABR-2021,Excesso de Peso,PR,98
+01-ABR-2021,Excesso de Peso,RS,792
+01-ABR-2021,Excesso de Peso,SP,535
+01-MAI-2021,CMT - Capacidade Máxima de Tração,MG,1
+01-MAI-2021,Excesso de Peso,MG,282
+01-MAI-2021,Excesso de Peso,MS,32
+01-MAI-2021,Excesso de Peso,PR,540
+01-MAI-2021,Excesso de Peso,SC,794
+01-MAI-2021,Excesso de Peso,SP,55
+01-JUN-2021,CMT - Capacidade Máxima de Tração,MG,2
+01-JUN-2021,CMT - Capacidade Máxima de Tração,MG,3
+01-JUN-2021,CMT - Capacidade Máxima de Tração,RJ,5
+01-JUN-2021,CMT - Capacidade Máxima de Tração,SP,2
+01-JUN-2021,Evasão de Balança,RJ,4073
+01-JUN-2021,Excesso de Peso,GO,14
+01-JUN-2021,Excesso de Peso,MG,3
+01-JUN-2021,Excesso de Peso,MG,653
+01-JUN-2021,Excesso de Peso,MG,781
+01-JUN-2021,Excesso de Peso,PR,128
+01-JUN-2021,Excesso de Peso,RJ,2117
+01-JUN-2021,Excesso de Peso,RS,82
+01-JUN-2021,Excesso de Peso,SC,189
+01-JUN-2021,Excesso de Peso,SP,138
+01-JUN-2021,Excesso de Peso,SP,536
+01-JUL-2021,CMT - Capacidade Máxima de Tração,MG,7
+01-JUL-2021,CMT - Capacidade Máxima de Tração,SC,1
+01-JUL-2021,Evasão de Balança,GO,437
+01-JUL-2021,Evasão de Balança,RJ,5205
+01-JUL-2021,Excesso de Peso,ES,257
+01-JUL-2021,Excesso de Peso,GO,5
+01-JUL-2021,Excesso de Peso,GO,102
+01-JUL-2021,Excesso de Peso,MG,1564
+01-JUL-2021,Excesso de Peso,MS,1
+01-JUL-2021,Excesso de Peso,PR,670
+01-JUL-2021,Evasão de Balança,ES,63
+01-JUL-2021,Evasão de Balança,MG,1023
+01-JUL-2021,Excesso de Peso,GO,56
+01-JUL-2021,Excesso de Peso,MG,1
+01-JUL-2021,Excesso de Peso,PR,137
+01-JUL-2021,Excesso de Peso,RJ,316
+01-JUL-2021,Excesso de Peso,RS,77
+01-JUL-2021,Excesso de Peso,SC,212
+01-JUL-2021,Excesso de Peso,SP,128
+01-AGO-2021,Evasão de Balança,RJ,4143
+01-AGO-2021,Excesso de Peso,BA,13
+01-AGO-2021,Excesso de Peso,ES,247
+01-AGO-2021,Excesso de Peso,MG,4
+01-AGO-2021,Excesso de Peso,PR,561
+01-AGO-2021,Excesso de Peso,RJ,350
+01-AGO-2021,Excesso de Peso,RS,130
+01-SET-2021,CMT - Capacidade Máxima de Tração,MG,1
+01-SET-2021,CMT - Capacidade Máxima de Tração,RJ,4
+01-SET-2021,Evasão de Balança,SP,2301
+01-SET-2021,Excesso de Peso,GO,358
+01-SET-2021,Excesso de Peso,MT,260
+01-SET-2021,Excesso de Peso,SC,30
+01-OUT-2021,Excesso de Peso,ES,60
+01-OUT-2021,Excesso de Peso,ES,102
+01-OUT-2021,Excesso de Peso,MG,3
+01-OUT-2021,Excesso de Peso,PR,109
+01-OUT-2021,Excesso de Peso,RJ,461
+01-OUT-2021,Excesso de Peso,RS,36
+01-OUT-2021,Excesso de Peso,SP,326
+01-NOV-2021,CMT - Capacidade Máxima de Tração,MG,1
+01-NOV-2021,Evasão de Balança,ES,193
+01-NOV-2021,Evasão de Balança,GO,1740
+01-NOV-2021,Evasão de Balança,MT,12
+01-NOV-2021,Excesso de Peso,ES,64
+01-NOV-2021,Excesso de Peso,MG,711
+01-NOV-2021,Excesso de Peso,RJ,724
+01-NOV-2021,Excesso de Peso,RS,46
+01-NOV-2021,Excesso de Peso,SC,292
+01-DEZ-2021,CMT - Capacidade Máxima de Tração,ES,1
+01-DEZ-2021,CMT - Capacidade Máxima de Tração,SP,1
+01-DEZ-2021,Excesso de Peso,GO,149
+01-DEZ-2021,Excesso de Peso,GO,380
+01-DEZ-2021,Excesso de Peso,MT,49
+01-DEZ-2021,Excesso de Peso,PR,72
+01-JAN-2022,CMT - Capacidade Máxima de Tração,RJ,2
+01-JAN-2022,Evasão de Balança,ES,136
+01-JAN-2022,Evasão de Balança,SP,748
+01-JAN-2022,Excesso de Peso,ES,96
+01-JAN-2022,Excesso de Peso,MT,22
+01-JAN-2022,Excesso de Peso,MT,26
+01-JAN-2022,Excesso de Peso,MT,236
+01-JAN-2022,Excesso de Peso,PR,25
+01-JAN-2022,Excesso de Peso,PR,29
+01-JAN-2022,Excesso de Peso,RJ,459
+01-JAN-2022,Excesso de Peso,RS,51
+01-JAN-2022,Excesso de Peso,SC,677
+01-JUL-2021,Excesso de Peso,RS,86
+01-JUL-2021,Excesso de Peso,SC,204
+01-AGO-2021,CMT - Capacidade Máxima de Tração,PR,1
+01-AGO-2021,CMT - Capacidade Máxima de Tração,PR,2
+01-AGO-2021,CMT - Capacidade Máxima de Tração,SC,2
+01-AGO-2021,Evasão de Balança,MG,1853
+01-AGO-2021,Evasão de Balança,SP,1614
+01-AGO-2021,Excesso de Peso,MG,1697
+01-AGO-2021,Excesso de Peso,PR,148
+01-AGO-2021,Excesso de Peso,RJ,260
+01-AGO-2021,Excesso de Peso,RS,81
+01-AGO-2021,Excesso de Peso,RS,443
+01-AGO-2021,Excesso de Peso,SC,144
+01-SET-2021,CMT - Capacidade Máxima de Tração,PR,1
+01-SET-2021,CMT - Capacidade Máxima de Tração,PR,1
+01-SET-2021,CMT - Capacidade Máxima de Tração,RJ,2
+01-SET-2021,CMT - Capacidade Máxima de Tração,RJ,8
+01-SET-2021,Evasão de Balança,GO,1723
+01-SET-2021,Evasão de Balança,MG,3363
+01-SET-2021,Evasão de Balança,RJ,4811
+01-SET-2021,Excesso de Peso,ES,65
+01-SET-2021,Excesso de Peso,GO,43
+01-SET-2021,Excesso de Peso,MG,2
+01-SET-2021,Excesso de Peso,MG,434
+01-SET-2021,Excesso de Peso,MT,54
+01-SET-2021,Excesso de Peso,MT,70
+01-SET-2021,Excesso de Peso,PR,162
+01-SET-2021,Excesso de Peso,SP,134
+01-OUT-2021,CMT - Capacidade Máxima de Tração,MG,1
+01-OUT-2021,CMT - Capacidade Máxima de Tração,RJ,1
+01-OUT-2021,CMT - Capacidade Máxima de Tração,RJ,2
+01-OUT-2021,CMT - Capacidade Máxima de Tração,SP,2
+01-OUT-2021,Evasão de Balança,SP,1442
+01-OUT-2021,Excesso de Peso,ES,345
+01-OUT-2021,Excesso de Peso,MG,251
+01-OUT-2021,Excesso de Peso,MT,279
+01-OUT-2021,Excesso de Peso,PR,362
+01-OUT-2021,Excesso de Peso,RJ,317
+01-OUT-2021,Excesso de Peso,SC,141
+01-OUT-2021,Excesso de Peso,SC,622
+01-NOV-2021,CMT - Capacidade Máxima de Tração,RJ,4
+01-NOV-2021,Excesso de Peso,GO,49
+01-NOV-2021,Excesso de Peso,GO,58
+01-NOV-2021,Excesso de Peso,PR,101
+01-NOV-2021,Excesso de Peso,PR,124
+01-NOV-2021,Excesso de Peso,PR,157
+01-NOV-2021,Excesso de Peso,RJ,257
+01-NOV-2021,Excesso de Peso,SC,193
+01-NOV-2021,Excesso de Peso,SP,195
+01-DEZ-2021,CMT - Capacidade Máxima de Tração,ES,1
+01-DEZ-2021,CMT - Capacidade Máxima de Tração,MG,1
+01-DEZ-2021,CMT - Capacidade Máxima de Tração,MT,1
+01-DEZ-2021,CMT - Capacidade Máxima de Tração,RJ,1
+01-DEZ-2021,Evasão de Balança,ES,194
+01-DEZ-2021,Evasão de Balança,MT,330
+01-DEZ-2021,Excesso de Peso,ES,124
+01-DEZ-2021,Excesso de Peso,ES,136
+01-DEZ-2021,Excesso de Peso,GO,151
+01-DEZ-2021,Excesso de Peso,MG,192
+01-DEZ-2021,Excesso de Peso,MT,77
+01-DEZ-2021,Excesso de Peso,PR,103
+01-DEZ-2021,Excesso de Peso,RJ,441
+01-DEZ-2021,Excesso de Peso,RJ,711
+01-DEZ-2021,Excesso de Peso,RS,23
+01-DEZ-2021,Excesso de Peso,RS,31
+01-DEZ-2021,Excesso de Peso,SC,272
+01-JAN-2022,CMT - Capacidade Máxima de Tração,MG,1
+01-JAN-2022,CMT - Capacidade Máxima de Tração,RJ,4
+01-JAN-2022,Evasão de Balança,MT,899
+01-JAN-2022,Evasão de Balança,RJ,2022
+01-JAN-2022,Excesso de Peso,ES,71
+01-JAN-2022,Excesso de Peso,GO,126
+01-JAN-2022,Excesso de Peso,GO,353
+01-JAN-2022,Excesso de Peso,MG,754
+01-JAN-2022,Excesso de Peso,PR,44
+01-JAN-2022,Excesso de Peso,RJ,372
+01-JAN-2022,Excesso de Peso,SC,353
+01-JAN-2022,Excesso de Peso,SP,103
+01-JAN-2021,CMT - Capacidade Máxima de Tração,RJ,2
+01-JAN-2021,CMT - Capacidade Máxima de Tração,SC,3
+01-JAN-2021,Evasão de Balança,ES,41
+01-JAN-2021,Excesso de Peso,MG,172
+01-JAN-2021,Excesso de Peso,PR,33
+01-JAN-2021,Excesso de Peso,SC,478
+01-JAN-2021,Excesso de Peso,SP,46
+01-JAN-2021,Excesso de Peso,SP,443
+01-FEV-2021,CMT - Capacidade Máxima de Tração,RJ,1
+01-FEV-2021,CMT - Capacidade Máxima de Tração,RJ,3
+01-FEV-2021,Evasão de Balança,RJ,6508
+01-FEV-2021,Excesso de Peso,MG,32
+01-FEV-2021,Excesso de Peso,MG,84
+01-FEV-2021,Excesso de Peso,RJ,276
+01-FEV-2021,Excesso de Peso,RJ,3275
+01-FEV-2021,Excesso de Peso,RS,33
+01-FEV-2021,Excesso de Peso,SC,626
+01-FEV-2021,Excesso de Peso,SP,50
+01-FEV-2021,Excesso de Peso,SP,386
+01-MAR-2021,CMT - Capacidade Máxima de Tração,ES,1
+01-MAR-2021,Evasão de Balança,SP,1074
+01-MAR-2021,Excesso de Peso,ES,125
+01-MAR-2021,Excesso de Peso,ES,1155
+01-MAR-2021,Excesso de Peso,MG,33
+01-MAR-2021,Excesso de Peso,MG,78
+01-MAR-2021,Excesso de Peso,PR,59
+01-MAR-2021,Excesso de Peso,PR,363
+01-MAR-2021,Excesso de Peso,RJ,3437
+01-MAR-2021,Excesso de Peso,RS,26
+01-MAR-2021,Excesso de Peso,SC,81
+01-MAR-2021,Excesso de Peso,SP,46
+01-ABR-2021,CMT - Capacidade Máxima de Tração,MG,3
+01-ABR-2021,CMT - Capacidade Máxima de Tração,MS,1
+01-ABR-2021,CMT - Capacidade Máxima de Tração,SC,2
+01-ABR-2021,Evasão de Balança,MG,233
+01-ABR-2021,Excesso de Peso,MG,37
+01-ABR-2021,Excesso de Peso,SC,238
+01-ABR-2021,Excesso de Peso,SP,66
+01-MAI-2021,CMT - Capacidade Máxima de Tração,RJ,1
+01-MAI-2021,Evasão de Balança,ES,215
+01-MAI-2021,Evasão de Balança,GO,798
+01-MAI-2021,Evasão de Balança,RJ,3464
+01-MAI-2021,Excesso de Peso,ES,135
+01-MAI-2021,Excesso de Peso,GO,3
+01-MAI-2021,Excesso de Peso,GO,99
+01-MAI-2021,Excesso de Peso,GO,562
+01-MAI-2021,Excesso de Peso,MG,98
+01-MAI-2021,Excesso de Peso,MS,9
+01-MAI-2021,Excesso de Peso,PR,107
+01-JUN-2021,Evasão de Balança,ES,415
+01-JUN-2021,Evasão de Balança,GO,962
+01-JUN-2021,Evasão de Balança,MG,1744
+01-JUN-2021,Evasão de Balança,SP,804
+01-JUN-2021,Excesso de Peso,ES,593
+01-JUN-2021,Excesso de Peso,GO,256
+01-JUN-2021,Excesso de Peso,MG,174
+01-JUN-2021,Excesso de Peso,MS,52
+01-JUN-2021,Excesso de Peso,PR,125
+01-JUN-2021,Excesso de Peso,RJ,442
+01-JUN-2021,Excesso de Peso,RS,50
+01-JUL-2021,CMT - Capacidade Máxima de Tração,RJ,1
+01-JUL-2021,CMT - Capacidade Máxima de Tração,RJ,4
+01-JUL-2021,Evasão de Balança,SP,832
+01-JUL-2021,Excesso de Peso,ES,63
+01-JUL-2021,Excesso de Peso,ES,112
+01-JUL-2021,Excesso de Peso,GO,317
+01-JUL-2021,Excesso de Peso,MG,254
+01-JUL-2021,Excesso de Peso,MS,4
+01-JUL-2021,Excesso de Peso,RS,223
+01-JUL-2021,Excesso de Peso,SP,108
+01-AGO-2021,CMT - Capacidade Máxima de Tração,PR,1
+01-AGO-2021,CMT - Capacidade Máxima de Tração,RJ,6
+01-AGO-2021,CMT - Capacidade Máxima de Tração,SP,2
+01-AGO-2021,Evasão de Balança,ES,20
+01-AGO-2021,Excesso de Peso,ES,62
+01-AGO-2021,Excesso de Peso,ES,87
+01-AGO-2021,Excesso de Peso,GO,65
+01-AGO-2021,Excesso de Peso,GO,194
+01-AGO-2021,Excesso de Peso,MG,183
+01-AGO-2021,Excesso de Peso,MT,47
+01-AGO-2021,Excesso de Peso,MT,209
+01-AGO-2021,Excesso de Peso,SP,403
+01-SET-2021,CMT - Capacidade Máxima de Tração,SP,2
+01-SET-2021,Excesso de Peso,ES,287
+01-SET-2021,Excesso de Peso,MG,1446
+01-SET-2021,Excesso de Peso,PR,643
+01-SET-2021,Excesso de Peso,RJ,347
+01-SET-2021,Excesso de Peso,RJ,456
+01-SET-2021,Excesso de Peso,RJ,1894
+01-SET-2021,Excesso de Peso,RS,74
+01-SET-2021,Excesso de Peso,SP,735
+01-OUT-2021,Evasão de Balança,GO,1964
+01-OUT-2021,Evasão de Balança,MG,1858
+01-OUT-2021,Excesso de Peso,GO,72
+01-OUT-2021,Excesso de Peso,GO,455
+01-OUT-2021,Excesso de Peso,RJ,1713
+01-OUT-2021,Excesso de Peso,RS,235
+01-OUT-2021,Excesso de Peso,SC,164
+01-NOV-2021,CMT - Capacidade Máxima de Tração,ES,1
+01-NOV-2021,CMT - Capacidade Máxima de Tração,RJ,4
+01-NOV-2021,CMT - Capacidade Máxima de Tração,RS,1
+01-NOV-2021,Evasão de Balança,RJ,4392
+01-NOV-2021,Excesso de Peso,BA,5
+01-NOV-2021,Excesso de Peso,ES,94
+01-NOV-2021,Excesso de Peso,ES,256
+01-NOV-2021,Excesso de Peso,RS,57
+01-NOV-2021,Excesso de Peso,SC,169
+01-DEZ-2021,CMT - Capacidade Máxima de Tração,RJ,4
+01-DEZ-2021,Evasão de Balança,GO,1021
+01-DEZ-2021,Evasão de Balança,MG,637
+01-DEZ-2021,Evasão de Balança,RJ,3099
+01-DEZ-2021,Excesso de Peso,ES,374
+01-DEZ-2021,Excesso de Peso,MG,131
+01-DEZ-2021,Excesso de Peso,PR,112
+01-DEZ-2021,Excesso de Peso,RJ,320
+01-DEZ-2021,Excesso de Peso,RS,177
+01-DEZ-2021,Excesso de Peso,SP,205
+01-JAN-2022,CMT - Capacidade Máxima de Tração,MG,3
+01-JAN-2022,Evasão de Balança,MG,172
+01-JAN-2022,Excesso de Peso,RJ,803
+01-JAN-2022,Excesso de Peso,RS,7
+01-JAN-2022,Excesso de Peso,RS,10
+01-JAN-2022,Excesso de Peso,SC,330
+01-JAN-2021,CMT - Capacidade Máxima de Tração,ES,1
+01-JAN-2021,Excesso de Peso,ES,95
+01-JAN-2021,Excesso de Peso,ES,939
+01-JAN-2021,Excesso de Peso,MS,83
+01-JAN-2021,Excesso de Peso,RJ,1
+01-JAN-2021,Excesso de Peso,RJ,307
+01-JAN-2021,Excesso de Peso,SC,51
+01-FEV-2021,Evasão de Balança,ES,762
+01-FEV-2021,Excesso de Peso,ES,816
+01-FEV-2021,Excesso de Peso,GO,1
+01-FEV-2021,Excesso de Peso,PR,81
+01-FEV-2021,Excesso de Peso,PR,414
+01-MAR-2021,CMT - Capacidade Máxima de Tração,SP,2
+01-MAR-2021,Evasão de Balança,RJ,6943
+01-MAR-2021,Excesso de Peso,SP,488
+01-ABR-2021,CMT - Capacidade Máxima de Tração,RJ,1
+01-ABR-2021,Evasão de Balança,GO,347
+01-ABR-2021,Excesso de Peso,ES,78
+01-ABR-2021,Excesso de Peso,GO,35
+01-ABR-2021,Excesso de Peso,MS,37
+01-ABR-2021,Excesso de Peso,RJ,3512
+01-ABR-2021,Excesso de Peso,RS,40
+01-ABR-2021,Excesso de Peso,RS,65
+01-ABR-2021,Excesso de Peso,SC,1013
+01-MAI-2021,CMT - Capacidade Máxima de Tração,RJ,3
+01-MAI-2021,CMT - Capacidade Máxima de Tração,RJ,4
+01-MAI-2021,Evasão de Balança,MG,1041
+01-MAI-2021,Evasão de Balança,SP,1305
+01-MAI-2021,Excesso de Peso,MG,1339
+01-MAI-2021,Excesso de Peso,PR,65
+01-MAI-2021,Excesso de Peso,SC,211
+01-MAI-2021,Excesso de Peso,SP,384
+01-JUN-2021,CMT - Capacidade Máxima de Tração,RJ,4
+01-JUN-2021,Excesso de Peso,ES,135
+01-JUN-2021,Excesso de Peso,MS,11
+01-JUN-2021,Excesso de Peso,MS,22
+01-JUN-2021,Excesso de Peso,PR,444
+01-JUN-2021,Excesso de Peso,RS,24
+01-JUN-2021,Excesso de Peso,SC,702
+01-JUL-2021,CMT - Capacidade Máxima de Tração,MG,2
+01-JUL-2021,CMT - Capacidade Máxima de Tração,RJ,3
+01-JUL-2021,Excesso de Peso,MG,328
+01-JUL-2021,Excesso de Peso,MS,14
+01-JUL-2021,Excesso de Peso,PR,161
+01-JUL-2021,Excesso de Peso,RJ,425
+01-JUL-2021,Excesso de Peso,RJ,2077
+01-JUL-2021,Excesso de Peso,SC,798
+01-JUL-2021,Excesso de Peso,SP,561
+01-AGO-2021,CMT - Capacidade Máxima de Tração,MG,1
+01-AGO-2021,CMT - Capacidade Máxima de Tração,MG,2
+01-AGO-2021,Evasão de Balança,GO,930
+01-AGO-2021,Excesso de Peso,GO,7
+01-AGO-2021,Excesso de Peso,GO,458
+01-AGO-2021,Excesso de Peso,MG,476
+01-AGO-2021,Excesso de Peso,MT,46
+01-AGO-2021,Excesso de Peso,PR,107
+01-AGO-2021,Excesso de Peso,RJ,1628
+01-AGO-2021,Excesso de Peso,SC,151
+01-AGO-2021,Excesso de Peso,SC,616
+01-AGO-2021,Excesso de Peso,SP,72
+01-AGO-2021,Excesso de Peso,SP,97
+01-SET-2021,CMT - Capacidade Máxima de Tração,MG,4
+01-SET-2021,Excesso de Peso,ES,51
+01-SET-2021,Excesso de Peso,GO,143
+01-SET-2021,Excesso de Peso,MG,213
+01-SET-2021,Excesso de Peso,PR,114
+01-SET-2021,Excesso de Peso,RS,91
+01-SET-2021,Excesso de Peso,RS,461
+01-SET-2021,Excesso de Peso,SC,26
+01-SET-2021,Excesso de Peso,SC,86
+01-SET-2021,Excesso de Peso,SP,160
+01-OUT-2021,CMT - Capacidade Máxima de Tração,RJ,7
+01-OUT-2021,Evasão de Balança,RJ,3782
+01-OUT-2021,Excesso de Peso,GO,58
+01-OUT-2021,Excesso de Peso,MG,148
+01-OUT-2021,Excesso de Peso,MG,1303
+01-OUT-2021,Excesso de Peso,MT,39
+01-OUT-2021,Excesso de Peso,MT,63
+01-OUT-2021,Excesso de Peso,PR,76
+01-OUT-2021,Excesso de Peso,RS,31
+01-OUT-2021,Excesso de Peso,SP,88
+01-OUT-2021,Excesso de Peso,SP,123
+01-NOV-2021,CMT - Capacidade Máxima de Tração,PR,1
+01-NOV-2021,CMT - Capacidade Máxima de Tração,SP,6
+01-NOV-2021,Evasão de Balança,MG,2093
+01-NOV-2021,Evasão de Balança,SP,1260
+01-NOV-2021,Excesso de Peso,GO,201
+01-NOV-2021,Excesso de Peso,MG,143
+01-NOV-2021,Excesso de Peso,MG,169
+01-NOV-2021,Excesso de Peso,MT,40
+01-NOV-2021,Excesso de Peso,MT,99
+01-NOV-2021,Excesso de Peso,MT,287
+01-NOV-2021,Excesso de Peso,RJ,411
+01-NOV-2021,Excesso de Peso,RS,234
+01-NOV-2021,Excesso de Peso,SP,171
+01-NOV-2021,Excesso de Peso,SP,190
+01-DEZ-2021,CMT - Capacidade Máxima de Tração,ES,1
+01-DEZ-2021,CMT - Capacidade Máxima de Tração,RJ,1
+01-DEZ-2021,Evasão de Balança,SP,851
+01-DEZ-2021,Excesso de Peso,BA,5
+01-DEZ-2021,Excesso de Peso,MG,609
+01-DEZ-2021,Excesso de Peso,MT,232
+01-DEZ-2021,Excesso de Peso,SC,160
+01-DEZ-2021,Excesso de Peso,SC,176
+01-DEZ-2021,Excesso de Peso,SP,149
+01-DEZ-2021,Excesso de Peso,SP,197
+01-JAN-2022,CMT - Capacidade Máxima de Tração,SC,1
+01-JAN-2022,Evasão de Balança,GO,678
+01-JAN-2022,Excesso de Peso,ES,238
+01-JAN-2022,Excesso de Peso,GO,159
+01-JAN-2022,Excesso de Peso,MG,221
+01-JAN-2022,Excesso de Peso,MG,224
+01-JAN-2022,Excesso de Peso,SP,99
+01-FEV-2022,CMT - Capacidade Máxima de Tração,RJ,5
+01-FEV-2022,CMT - Capacidade Máxima de Tração,SC,1
+01-FEV-2022,Evasão de Balança,GO,840
+01-FEV-2022,Evasão de Balança,RJ,2939
+01-FEV-2022,Excesso de Peso,ES,296
+01-FEV-2022,Excesso de Peso,GO,135
+01-FEV-2022,Excesso de Peso,MG,222
+01-FEV-2022,Excesso de Peso,MG,241
+01-FEV-2022,Excesso de Peso,MG,770
+01-FEV-2022,Excesso de Peso,MT,75
+01-FEV-2022,Excesso de Peso,RJ,319
+01-FEV-2022,Excesso de Peso,SP,96
+01-FEV-2022,Excesso de Peso,SP,189
+01-MAR-2022,CMT - Capacidade Máxima de Tração,MG,1
+01-MAR-2022,CMT - Capacidade Máxima de Tração,SC,1
+01-MAR-2022,Excesso de Peso,BA,3
+01-MAR-2022,Excesso de Peso,ES,22
+01-MAR-2022,Excesso de Peso,MG,290
+01-MAR-2022,Excesso de Peso,MG,1029
+01-MAR-2022,Excesso de Peso,MT,65
+01-MAR-2022,Excesso de Peso,RJ,502
+01-MAR-2022,Excesso de Peso,RS,80
+01-MAR-2022,Excesso de Peso,RS,351
+01-MAR-2022,Excesso de Peso,SP,90
+01-ABR-2022,Evasão de Balança,MT,2902
+01-ABR-2022,Evasão de Balança,SP,1626
+01-ABR-2022,Excesso de Peso,BA,1
+01-ABR-2022,Excesso de Peso,GO,283
+01-ABR-2022,Excesso de Peso,MG,835
+01-ABR-2022,Excesso de Peso,MT,453
+01-ABR-2022,Excesso de Peso,RJ,629
+01-ABR-2022,Excesso de Peso,RS,414
+01-ABR-2022,Excesso de Peso,SP,123
+01-MAI-2022,CMT - Capacidade Máxima de Tração,MG,8
+01-MAI-2022,CMT - Capacidade Máxima de Tração,RJ,4
+01-MAI-2022,Evasão de Balança,SP,1206
+01-MAI-2022,Excesso de Peso,MT,69
+01-MAI-2022,Excesso de Peso,MT,434
+01-MAI-2022,Excesso de Peso,RJ,912
+01-MAI-2022,Excesso de Peso,RS,349
+01-MAI-2022,Excesso de Peso,SC,214
+01-MAI-2022,Excesso de Peso,SP,90
+01-MAI-2022,Excesso de Peso,SP,137
+01-JUN-2022,CMT - Capacidade Máxima de Tração,ES,4
+01-JUN-2022,CMT - Capacidade Máxima de Tração,MG,1
+01-JUN-2022,CMT - Capacidade Máxima de Tração,RJ,3
+01-JUN-2022,CMT - Capacidade Máxima de Tração,RS,2
+01-JUN-2022,CMT - Capacidade Máxima de Tração,SC,1
+01-JUN-2022,CMT - Capacidade Máxima de Tração,SP,2
+01-JUN-2022,Evasão de Balança,MT,1544
+01-JUN-2022,Excesso de Peso,BA,2
+01-JUN-2022,Excesso de Peso,ES,232
+01-JUN-2022,Excesso de Peso,ES,262
+01-JUN-2022,Excesso de Peso,ES,579
+01-JUN-2022,Excesso de Peso,GO,163
+01-JUN-2022,Excesso de Peso,MT,792
+01-JUN-2022,Excesso de Peso,RS,463
+01-JUN-2022,Excesso de Peso,SC,174
+01-JUN-2022,Excesso de Peso,SP,260
+01-JUL-2022,CMT - Capacidade Máxima de Tração,RS,1
+01-JUL-2022,Evasão de Balança,MG,2309
+01-JUL-2022,Excesso de Peso,ES,178
+01-JUL-2022,Excesso de Peso,MG,268
+01-JUL-2022,Excesso de Peso,MT,33
+01-JUL-2022,Excesso de Peso,MT,320
+01-JUL-2022,Excesso de Peso,RJ,959
+01-JUL-2022,Excesso de Peso,SC,210
+01-AGO-2022,CMT - Capacidade Máxima de Tração,MG,2
+01-AGO-2022,CMT - Capacidade Máxima de Tração,RJ,1
+01-AGO-2022,Evasão de Balança,GO,55
+01-AGO-2022,Evasão de Balança,MT,78
+01-AGO-2022,Evasão de Balança,SP,1309
+01-AGO-2022,Excesso de Peso,MG,29
+01-AGO-2022,Excesso de Peso,MG,49
+01-AGO-2022,Excesso de Peso,MG,205
+01-AGO-2022,Excesso de Peso,MG,813
+01-AGO-2022,Excesso de Peso,RJ,52
+01-AGO-2022,Excesso de Peso,RJ,1099
+01-AGO-2022,Excesso de Peso,RS,6
+01-AGO-2022,Excesso de Peso,RS,58
+01-AGO-2022,Excesso de Peso,SC,84
+01-SET-2022,CMT - Capacidade Máxima de Tração,ES,6
+01-SET-2022,CMT - Capacidade Máxima de Tração,RS,1
+01-SET-2022,Evasão de Balança,SP,1600
+01-SET-2022,Excesso de Peso,ES,475
+01-SET-2022,Excesso de Peso,MG,992
+01-SET-2022,Excesso de Peso,RJ,190
+01-SET-2022,Excesso de Peso,RS,308
+01-SET-2022,Excesso de Peso,SC,100
+01-SET-2022,Excesso de Peso,SP,152
+01-SET-2022,Excesso de Peso,SP,241
+01-OUT-2022,CMT - Capacidade Máxima de Tração,RJ,5
+01-OUT-2022,CMT - Capacidade Máxima de Tração,RJ,6
+01-OUT-2022,Excesso de Peso,MG,291
+01-OUT-2022,Excesso de Peso,MT,628
+01-OUT-2022,Excesso de Peso,RJ,778
+01-OUT-2022,Excesso de Peso,RS,288
+01-OUT-2022,Excesso de Peso,RS,621
+01-NOV-2022,CMT - Capacidade Máxima de Tração,GO,6
+01-NOV-2022,CMT - Capacidade Máxima de Tração,MG,1
+01-NOV-2022,CMT - Capacidade Máxima de Tração,MG,8
+01-NOV-2022,CMT - Capacidade Máxima de Tração,RS,1
+01-NOV-2022,Evasão de Balança,MT,1184
+01-NOV-2022,Evasão de Balança,RJ,2064
+01-NOV-2022,Evasão de Balança,SP,2402
+01-NOV-2022,Excesso de Peso,MT,107
+01-NOV-2022,Excesso de Peso,MT,690
+01-NOV-2022,Excesso de Peso,RJ,421
+01-NOV-2022,Excesso de Peso,RS,565
+01-NOV-2022,Excesso de Peso,RS,1295
+01-NOV-2022,Excesso de Peso,SC,99
+01-DEZ-2022,CMT - Capacidade Máxima de Tração,ES,3
+01-DEZ-2022,CMT - Capacidade Máxima de Tração,GO,9
+01-DEZ-2022,CMT - Capacidade Máxima de Tração,MG,3
+01-DEZ-2022,CMT - Capacidade Máxima de Tração,RS,3
+01-DEZ-2022,Evasão de Balança,MT,238
+01-DEZ-2022,Evasão de Balança,RJ,1789
+01-DEZ-2022,Excesso de Peso,ES,153
+01-DEZ-2022,Excesso de Peso,GO,86
+01-DEZ-2022,Excesso de Peso,PR,224
+01-DEZ-2022,Excesso de Peso,PR,249
+01-DEZ-2022,Excesso de Peso,RS,471
+01-JAN-2022,Excesso de Peso,SP,136
+01-FEV-2022,CMT - Capacidade Máxima de Tração,SP,2
+01-FEV-2022,Evasão de Balança,SP,799
+01-FEV-2022,Excesso de Peso,ES,60
+01-FEV-2022,Excesso de Peso,ES,63
+01-FEV-2022,Excesso de Peso,GO,434
+01-FEV-2022,Excesso de Peso,MT,51
+01-FEV-2022,Excesso de Peso,SC,292
+01-MAR-2022,CMT - Capacidade Máxima de Tração,RJ,2
+01-MAR-2022,CMT - Capacidade Máxima de Tração,RJ,3
+01-MAR-2022,Evasão de Balança,MT,2305
+01-MAR-2022,Evasão de Balança,RJ,2435
+01-MAR-2022,Excesso de Peso,GO,135
+01-ABR-2022,CMT - Capacidade Máxima de Tração,MG,1
+01-ABR-2022,CMT - Capacidade Máxima de Tração,RJ,10
+01-ABR-2022,Evasão de Balança,MG,300
+01-ABR-2022,Excesso de Peso,ES,78
+01-ABR-2022,Excesso de Peso,ES,92
+01-ABR-2022,Excesso de Peso,GO,92
+01-ABR-2022,Excesso de Peso,MG,281
+01-ABR-2022,Excesso de Peso,RJ,1224
+01-ABR-2022,Excesso de Peso,RS,101
+01-MAI-2022,CMT - Capacidade Máxima de Tração,MG,2
+01-MAI-2022,CMT - Capacidade Máxima de Tração,RJ,1
+01-MAI-2022,Excesso de Peso,ES,246
+01-MAI-2022,Excesso de Peso,GO,356
+01-MAI-2022,Excesso de Peso,MG,270
+01-MAI-2022,Excesso de Peso,MG,899
+01-MAI-2022,Excesso de Peso,MT,89
+01-MAI-2022,Excesso de Peso,SC,420
+01-JUN-2022,CMT - Capacidade Máxima de Tração,RS,2
+01-JUN-2022,Evasão de Balança,RJ,2191
+01-JUN-2022,Excesso de Peso,MG,752
+01-JUN-2022,Excesso de Peso,RS,97
+01-JUN-2022,Excesso de Peso,RS,193
+01-JUN-2022,Excesso de Peso,SP,167
+01-JUN-2022,Excesso de Peso,SP,210
+01-JUL-2022,Evasão de Balança,MT,1278
+01-JUL-2022,Evasão de Balança,SP,539
+01-JUL-2022,Excesso de Peso,ES,323
+01-JUL-2022,Excesso de Peso,MG,292
+01-JUL-2022,Excesso de Peso,MT,68
+01-JUL-2022,Excesso de Peso,RJ,547
+01-JUL-2022,Excesso de Peso,RJ,864
+01-JUL-2022,Excesso de Peso,SC,80
+01-JUL-2022,Excesso de Peso,SP,97
+01-AGO-2022,CMT - Capacidade Máxima de Tração,MG,8
+01-AGO-2022,CMT - Capacidade Máxima de Tração,SC,1
+01-AGO-2022,CMT - Capacidade Máxima de Tração,SC,10
+01-AGO-2022,Excesso de Peso,BA,8
+01-AGO-2022,Excesso de Peso,ES,1
+01-AGO-2022,Excesso de Peso,ES,18
+01-AGO-2022,Excesso de Peso,ES,29
+01-AGO-2022,Excesso de Peso,GO,1
+01-AGO-2022,Excesso de Peso,MG,1
+01-AGO-2022,Excesso de Peso,MG,23
+01-AGO-2022,Excesso de Peso,MT,1
+01-AGO-2022,Excesso de Peso,MT,11
+01-AGO-2022,Excesso de Peso,RJ,52
+01-AGO-2022,Excesso de Peso,RJ,515
+01-AGO-2022,Excesso de Peso,RS,1
+01-AGO-2022,Excesso de Peso,RS,3
+01-AGO-2022,Excesso de Peso,RS,92
+01-AGO-2022,Excesso de Peso,RS,354
+01-AGO-2022,Excesso de Peso,SP,7
+01-FEV-2022,CMT - Capacidade Máxima de Tração,ES,2
+01-FEV-2022,Evasão de Balança,ES,463
+01-FEV-2022,Evasão de Balança,MG,3163
+01-FEV-2022,Evasão de Balança,MT,1600
+01-FEV-2022,Excesso de Peso,BA,12
+01-FEV-2022,Excesso de Peso,GO,126
+01-FEV-2022,Excesso de Peso,MT,415
+01-FEV-2022,Excesso de Peso,RJ,787
+01-FEV-2022,Excesso de Peso,SC,617
+01-MAR-2022,CMT - Capacidade Máxima de Tração,MG,2
+01-MAR-2022,CMT - Capacidade Máxima de Tração,RJ,4
+01-MAR-2022,Evasão de Balança,ES,414
+01-MAR-2022,Evasão de Balança,GO,1206
+01-MAR-2022,Evasão de Balança,MG,1568
+01-MAR-2022,Evasão de Balança,SP,1436
+01-MAR-2022,Excesso de Peso,ES,13
+01-MAR-2022,Excesso de Peso,ES,67
+01-MAR-2022,Excesso de Peso,GO,128
+01-MAR-2022,Excesso de Peso,GO,438
+01-MAR-2022,Excesso de Peso,MT,78
+01-MAR-2022,Excesso de Peso,MT,442
+01-MAR-2022,Excesso de Peso,RJ,840
+01-MAR-2022,Excesso de Peso,RS,108
+01-MAR-2022,Excesso de Peso,SC,607
+01-MAR-2022,Excesso de Peso,SP,155
+01-ABR-2022,CMT - Capacidade Máxima de Tração,MG,2
+01-ABR-2022,CMT - Capacidade Máxima de Tração,RJ,10
+01-ABR-2022,CMT - Capacidade Máxima de Tração,SP,1
+01-ABR-2022,Evasão de Balança,ES,36
+01-ABR-2022,Evasão de Balança,GO,1249
+01-ABR-2022,Excesso de Peso,ES,241
+01-ABR-2022,Excesso de Peso,MT,68
+01-ABR-2022,Excesso de Peso,SC,258
+01-MAI-2022,CMT - Capacidade Máxima de Tração,SC,2
+01-MAI-2022,Evasão de Balança,MG,470
+01-MAI-2022,Evasão de Balança,MT,2168
+01-MAI-2022,Excesso de Peso,ES,204
+01-MAI-2022,Excesso de Peso,MG,296
+01-MAI-2022,Excesso de Peso,RS,96
+01-MAI-2022,Excesso de Peso,RS,190
+01-MAI-2022,Excesso de Peso,SC,237
+01-JUN-2022,CMT - Capacidade Máxima de Tração,RJ,5
+01-JUN-2022,Evasão de Balança,GO,472
+01-JUN-2022,Evasão de Balança,MG,1164
+01-JUN-2022,Excesso de Peso,GO,97
+01-JUN-2022,Excesso de Peso,MG,332
+01-JUN-2022,Excesso de Peso,MT,144
+01-JUN-2022,Excesso de Peso,RJ,803
+01-JUN-2022,Excesso de Peso,RJ,1139
+01-JUN-2022,Excesso de Peso,SC,382
+01-JUL-2022,CMT - Capacidade Máxima de Tração,ES,2
+01-JUL-2022,CMT - Capacidade Máxima de Tração,GO,1
+01-JUL-2022,CMT - Capacidade Máxima de Tração,MG,1
+01-JUL-2022,CMT - Capacidade Máxima de Tração,MT,1
+01-JUL-2022,CMT - Capacidade Máxima de Tração,RJ,5
+01-JUL-2022,CMT - Capacidade Máxima de Tração,SC,2
+01-JUL-2022,CMT - Capacidade Máxima de Tração,SP,2
+01-JUL-2022,Evasão de Balança,GO,670
+01-JUL-2022,Excesso de Peso,ES,142
+01-JUL-2022,Excesso de Peso,GO,58
+01-JUL-2022,Excesso de Peso,GO,83
+01-JUL-2022,Excesso de Peso,GO,229
+01-JUL-2022,Excesso de Peso,MG,1142
+01-JUL-2022,Excesso de Peso,RS,60
+01-JUL-2022,Excesso de Peso,RS,106
+01-AGO-2022,Excesso de Peso,SP,133
+01-SET-2022,CMT - Capacidade Máxima de Tração,ES,18
+01-SET-2022,CMT - Capacidade Máxima de Tração,RJ,1
+01-SET-2022,CMT - Capacidade Máxima de Tração,RS,2
+01-SET-2022,Evasão de Balança,MG,1868
+01-SET-2022,Evasão de Balança,MT,602
+01-SET-2022,Excesso de Peso,MG,305
+01-SET-2022,Excesso de Peso,RJ,627
+01-SET-2022,Excesso de Peso,RS,51
+01-SET-2022,Excesso de Peso,SC,157
+01-SET-2022,Excesso de Peso,SC,247
+01-OUT-2022,CMT - Capacidade Máxima de Tração,ES,2
+01-OUT-2022,CMT - Capacidade Máxima de Tração,MG,3
+01-OUT-2022,CMT - Capacidade Máxima de Tração,MG,3
+01-OUT-2022,CMT - Capacidade Máxima de Tração,RJ,6
+01-OUT-2022,Excesso de Peso,ES,318
+01-OUT-2022,Excesso de Peso,MG,364
+01-OUT-2022,Excesso de Peso,MT,101
+01-OUT-2022,Excesso de Peso,PR,20
+01-OUT-2022,Excesso de Peso,PR,21
+01-NOV-2022,CMT - Capacidade Máxima de Tração,ES,1
+01-NOV-2022,CMT - Capacidade Máxima de Tração,RJ,5
+01-NOV-2022,CMT - Capacidade Máxima de Tração,RJ,11
+01-NOV-2022,CMT - Capacidade Máxima de Tração,RS,3
+01-NOV-2022,CMT - Capacidade Máxima de Tração,SC,1
+01-NOV-2022,Evasão de Balança,MG,158
+01-NOV-2022,Excesso de Peso,ES,210
+01-NOV-2022,Excesso de Peso,MG,347
+01-NOV-2022,Excesso de Peso,SP,101
+01-NOV-2022,Excesso de Peso,SP,111
+01-DEZ-2022,CMT - Capacidade Máxima de Tração,ES,5
+01-DEZ-2022,CMT - Capacidade Máxima de Tração,MG,5
+01-DEZ-2022,CMT - Capacidade Máxima de Tração,RJ,2
+01-DEZ-2022,Evasão de Balança,MG,61
+01-DEZ-2022,Evasão de Balança,SP,84
+01-DEZ-2022,Excesso de Peso,MG,315
+01-DEZ-2022,Excesso de Peso,MG,344
+01-DEZ-2022,Excesso de Peso,MT,90
+01-DEZ-2022,Excesso de Peso,RJ,227
+01-DEZ-2022,Excesso de Peso,RJ,528
+01-DEZ-2022,Excesso de Peso,SC,246
+01-DEZ-2022,Excesso de Peso,SP,4
+01-JUL-2022,Excesso de Peso,RS,316
+01-JUL-2022,Excesso de Peso,SP,121
+01-AGO-2022,CMT - Capacidade Máxima de Tração,MG,1
+01-AGO-2022,CMT - Capacidade Máxima de Tração,MG,2
+01-AGO-2022,CMT - Capacidade Máxima de Tração,RJ,1
+01-AGO-2022,CMT - Capacidade Máxima de Tração,RJ,2
+01-AGO-2022,Evasão de Balança,RJ,5691
+01-AGO-2022,Excesso de Peso,ES,1
+01-AGO-2022,Excesso de Peso,ES,18
+01-AGO-2022,Excesso de Peso,ES,134
+01-AGO-2022,Excesso de Peso,ES,247
+01-AGO-2022,Excesso de Peso,MG,23
+01-AGO-2022,Excesso de Peso,MT,10
+01-AGO-2022,Excesso de Peso,MT,110
+01-AGO-2022,Excesso de Peso,RJ,83
+01-AGO-2022,Excesso de Peso,RJ,97
+01-AGO-2022,Excesso de Peso,SP,2
+01-AGO-2022,Excesso de Peso,SP,14
+01-AGO-2022,Excesso de Peso,SP,109
+01-AGO-2022,Excesso de Peso,SP,116
+01-SET-2022,CMT - Capacidade Máxima de Tração,ES,2
+01-SET-2022,Evasão de Balança,GO,1
+01-SET-2022,Evasão de Balança,RJ,4443
+01-SET-2022,Excesso de Peso,ES,354
+01-SET-2022,Excesso de Peso,MG,371
+01-OUT-2022,CMT - Capacidade Máxima de Tração,ES,4
+01-OUT-2022,CMT - Capacidade Máxima de Tração,MG,15
+01-OUT-2022,CMT - Capacidade Máxima de Tração,RS,3
+01-OUT-2022,CMT - Capacidade Máxima de Tração,RS,4
+01-OUT-2022,Evasão de Balança,MT,219
+01-OUT-2022,Evasão de Balança,SP,2483
+01-OUT-2022,Excesso de Peso,MG,865
+01-OUT-2022,Excesso de Peso,MT,67
+01-OUT-2022,Excesso de Peso,RJ,371
+01-OUT-2022,Excesso de Peso,SC,103
+01-OUT-2022,Excesso de Peso,SC,242
+01-OUT-2022,Excesso de Peso,SP,166
+01-OUT-2022,Excesso de Peso,SP,292
+01-OUT-2022,Excesso de Peso,SP,376
+01-NOV-2022,CMT - Capacidade Máxima de Tração,ES,4
+01-NOV-2022,CMT - Capacidade Máxima de Tração,GO,7
+01-NOV-2022,CMT - Capacidade Máxima de Tração,MG,2
+01-NOV-2022,CMT - Capacidade Máxima de Tração,MT,1
+01-NOV-2022,Excesso de Peso,ES,207
+01-NOV-2022,Excesso de Peso,MG,401
+01-NOV-2022,Excesso de Peso,PR,374
+01-NOV-2022,Excesso de Peso,SP,190
+01-DEZ-2022,CMT - Capacidade Máxima de Tração,GO,2
+01-DEZ-2022,CMT - Capacidade Máxima de Tração,GO,4
+01-DEZ-2022,CMT - Capacidade Máxima de Tração,PR,1
+01-DEZ-2022,CMT - Capacidade Máxima de Tração,SC,1
+01-DEZ-2022,Excesso de Peso,ES,162
+01-DEZ-2022,Excesso de Peso,MG,731
+01-DEZ-2022,Excesso de Peso,MT,481
+01-DEZ-2022,Excesso de Peso,RJ,361
+01-DEZ-2022,Excesso de Peso,RS,453
+01-DEZ-2022,Excesso de Peso,SP,34
+01-FEV-2022,CMT - Capacidade Máxima de Tração,MG,2
+01-FEV-2022,CMT - Capacidade Máxima de Tração,RJ,2
+01-FEV-2022,Excesso de Peso,RJ,459
+01-FEV-2022,Excesso de Peso,SC,364
+01-FEV-2022,Excesso de Peso,SP,112
+01-MAR-2022,CMT - Capacidade Máxima de Tração,MT,1
+01-MAR-2022,Excesso de Peso,MG,264
+01-MAR-2022,Excesso de Peso,RJ,986
+01-MAR-2022,Excesso de Peso,SC,337
+01-MAR-2022,Excesso de Peso,SC,352
+01-MAR-2022,Excesso de Peso,SP,154
+01-ABR-2022,CMT - Capacidade Máxima de Tração,MG,1
+01-ABR-2022,CMT - Capacidade Máxima de Tração,RJ,4
+01-ABR-2022,CMT - Capacidade Máxima de Tração,SC,3
+01-ABR-2022,Evasão de Balança,RJ,3804
+01-ABR-2022,Excesso de Peso,GO,84
+01-ABR-2022,Excesso de Peso,MG,223
+01-ABR-2022,Excesso de Peso,MT,51
+01-ABR-2022,Excesso de Peso,RJ,905
+01-ABR-2022,Excesso de Peso,RS,180
+01-ABR-2022,Excesso de Peso,SC,246
+01-ABR-2022,Excesso de Peso,SC,452
+01-ABR-2022,Excesso de Peso,SP,44
+01-ABR-2022,Excesso de Peso,SP,87
+01-MAI-2022,CMT - Capacidade Máxima de Tração,SC,5
+01-MAI-2022,Evasão de Balança,GO,770
+01-MAI-2022,Evasão de Balança,RJ,4343
+01-MAI-2022,Excesso de Peso,BA,13
+01-MAI-2022,Excesso de Peso,ES,586
+01-MAI-2022,Excesso de Peso,GO,135
+01-MAI-2022,Excesso de Peso,GO,171
+01-MAI-2022,Excesso de Peso,RJ,790
+01-MAI-2022,Excesso de Peso,RJ,1416
+01-MAI-2022,Excesso de Peso,SP,160
+01-JUN-2022,CMT - Capacidade Máxima de Tração,ES,3
+01-JUN-2022,CMT - Capacidade Máxima de Tração,ES,4
+01-JUN-2022,CMT - Capacidade Máxima de Tração,MG,4
+01-JUN-2022,CMT - Capacidade Máxima de Tração,MT,1
+01-JUN-2022,CMT - Capacidade Máxima de Tração,MT,1
+01-JUN-2022,CMT - Capacidade Máxima de Tração,SP,5
+01-JUN-2022,Evasão de Balança,SP,544
+01-JUN-2022,Excesso de Peso,DF,1
+01-JUN-2022,Excesso de Peso,GO,52
+01-JUN-2022,Excesso de Peso,MG,259
+01-JUN-2022,Excesso de Peso,MT,125
+01-JUN-2022,Excesso de Peso,RJ,618
+01-JUN-2022,Excesso de Peso,SC,201
+01-JUL-2022,CMT - Capacidade Máxima de Tração,RJ,2
+01-JUL-2022,CMT - Capacidade Máxima de Tração,RJ,8
+01-JUL-2022,Evasão de Balança,RJ,3565
+01-JUL-2022,Excesso de Peso,BA,10
+01-JUL-2022,Excesso de Peso,SC,131
+01-JUL-2022,Excesso de Peso,SP,125
+01-AGO-2022,CMT - Capacidade Máxima de Tração,ES,4
+01-AGO-2022,CMT - Capacidade Máxima de Tração,RJ,2
+01-AGO-2022,CMT - Capacidade Máxima de Tração,SP,1
+01-AGO-2022,Evasão de Balança,MG,1870
+01-AGO-2022,Excesso de Peso,ES,376
+01-AGO-2022,Excesso de Peso,GO,1
+01-AGO-2022,Excesso de Peso,MG,4
+01-AGO-2022,Excesso de Peso,MG,169
+01-AGO-2022,Excesso de Peso,PR,2
+01-AGO-2022,Excesso de Peso,RJ,26
+01-AGO-2022,Excesso de Peso,RJ,57
+01-AGO-2022,Excesso de Peso,RJ,790
+01-AGO-2022,Excesso de Peso,RS,1
+01-AGO-2022,Excesso de Peso,RS,29
+01-AGO-2022,Excesso de Peso,SC,2
+01-AGO-2022,Excesso de Peso,SC,3
+01-AGO-2022,Excesso de Peso,SC,5
+01-AGO-2022,Excesso de Peso,SC,7
+01-AGO-2022,Excesso de Peso,SC,8
+01-AGO-2022,Excesso de Peso,SC,11
+01-AGO-2022,Excesso de Peso,SC,130
+01-AGO-2022,Excesso de Peso,SC,146
+01-SET-2022,CMT - Capacidade Máxima de Tração,MG,1
+01-SET-2022,CMT - Capacidade Máxima de Tração,MG,3
+01-SET-2022,CMT - Capacidade Máxima de Tração,SC,6
+01-SET-2022,Excesso de Peso,ES,1017
+01-SET-2022,Excesso de Peso,RJ,488
+01-SET-2022,Excesso de Peso,RS,61
+01-SET-2022,Excesso de Peso,SP,140
+01-OUT-2022,CMT - Capacidade Máxima de Tração,MT,1
+01-OUT-2022,Evasão de Balança,GO,2
+01-OUT-2022,Evasão de Balança,MG,1018
+01-OUT-2022,Evasão de Balança,RJ,1617
+01-OUT-2022,Excesso de Peso,ES,346
+01-OUT-2022,Excesso de Peso,ES,931
+01-OUT-2022,Excesso de Peso,PR,21
+01-OUT-2022,Excesso de Peso,RJ,639
+01-OUT-2022,Excesso de Peso,RS,277
+01-OUT-2022,Excesso de Peso,SC,79
+01-NOV-2022,CMT - Capacidade Máxima de Tração,RJ,22
+01-NOV-2022,Excesso de Peso,ES,590
+01-NOV-2022,Excesso de Peso,GO,72
+01-NOV-2022,Excesso de Peso,GO,113
+01-NOV-2022,Excesso de Peso,GO,299
+01-NOV-2022,Excesso de Peso,MG,952
+01-NOV-2022,Excesso de Peso,MT,124
+01-NOV-2022,Excesso de Peso,PR,282
+01-NOV-2022,Excesso de Peso,PR,380
+01-NOV-2022,Excesso de Peso,RJ,630
+01-NOV-2022,Excesso de Peso,RJ,855
+01-NOV-2022,Excesso de Peso,RS,525
+01-NOV-2022,Excesso de Peso,SC,88
+01-NOV-2022,Excesso de Peso,SC,204
+01-DEZ-2022,CMT - Capacidade Máxima de Tração,MG,3
+01-DEZ-2022,CMT - Capacidade Máxima de Tração,RJ,6
+01-DEZ-2022,CMT - Capacidade Máxima de Tração,RJ,7
+01-DEZ-2022,Evasão de Balança,GO,429
+01-DEZ-2022,Excesso de Peso,ES,442
+01-DEZ-2022,Excesso de Peso,GO,59
+01-DEZ-2022,Excesso de Peso,GO,175
+01-DEZ-2022,Excesso de Peso,MT,54
+01-DEZ-2022,Excesso de Peso,PR,360
+01-DEZ-2022,Excesso de Peso,RS,1044
+01-DEZ-2022,Excesso de Peso,SC,86
+01-DEZ-2022,Excesso de Peso,SC,174
+01-DEZ-2022,Excesso de Peso,SP,18

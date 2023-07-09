@@ -10,38 +10,31 @@ folders = config['folders']
 
 # origen local raw file 
 folder_origem =  folders['d_transform']
-file_name = 'DADOS_COVID_extracted' 
+file_name = 'multas_extracted' 
 
 # Connect with csv file
 df = pd.read_csv(folder_origem + file_name + '.csv', delimiter=',', header=0, encoding='utf-8')
+# Creating a DataFrame Pandas
+df = pd.DataFrame(df)
 
+# Merge the columns
+merged_col = '01' + '-' + df['mes'].str.slice(stop=3) + '-' + df['ano'].astype(str)
+# Add the new merged column to the DataFrame
+df['date'] = merged_col
 
-# transform
-# transform
-# transform
-# transform
-# transform
-# transform
-# transform
-# transform
-# transform
-# transform
-# transform
-# transform
-# transform
-# transform
-
-
-
+# select columns
+df = df[[
+      'date'
+    , 'escopo_autuacao'
+    , 'uf'
+    , 'quantidade_autos'
+    ]]
 
 # Specify the new folder path
 output_folder = folders['d_transform']
 output_file = file_name + '_transformed'
 
-# transform in a DataFrame
-df = pd.DataFrame(df)
-
 # Save the DataFrame as a new CSV file in the output folder
-df.to_csv(output_folder + output_file + '.csv', mode='a', header=True, index=False)
+df.to_csv(output_folder + output_file + '.csv', header=True, index=False)
 
 print("File saved successfully!")

@@ -48,4 +48,5 @@ This project is licensed under the MIT License.
 If you have any questions or suggestions, feel free to contact:
 
 Demaxsuel Batista
-demaxsuelmb@hotmail.com# Covid2019
+
+demaxsuelmb@hotmail.com
